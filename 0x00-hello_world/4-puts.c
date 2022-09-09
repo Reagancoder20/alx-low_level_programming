@@ -1,3 +1,10 @@
+/**
+* main - function
+* 
+*Return - number/meaning
+*
+*
+*/
 #include <stdio.h>
 int main(void)
 {
